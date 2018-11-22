@@ -5,10 +5,10 @@ C:\Users\andre.mmarcondes\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\Console
 C:\Users\andre.mmarcondes\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
 C:\Users\andre.mmarcondes\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
 C:\Users\andre.mmarcondes\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
-C:\Users\lucas\Documents\switchcaseexemplos-master\switchcaseexemplos-master\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
-C:\Users\lucas\Documents\switchcaseexemplos-master\switchcaseexemplos-master\ConsoleApp7\bin\Debug\ConsoleApp7.exe
-C:\Users\lucas\Documents\switchcaseexemplos-master\switchcaseexemplos-master\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
-C:\Users\lucas\Documents\switchcaseexemplos-master\switchcaseexemplos-master\ConsoleApp7\obj\Debug\ConsoleApp7.csprojAssemblyReference.cache
-C:\Users\lucas\Documents\switchcaseexemplos-master\switchcaseexemplos-master\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
-C:\Users\lucas\Documents\switchcaseexemplos-master\switchcaseexemplos-master\ConsoleApp7\obj\Debug\ConsoleApp7.exe
-C:\Users\lucas\Documents\switchcaseexemplos-master\switchcaseexemplos-master\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+C:\Users\lucas.gslima1\Downloads\switchcaseexemplos-master\switchcaseexemplos-master\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\lucas.gslima1\Downloads\switchcaseexemplos-master\switchcaseexemplos-master\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\lucas.gslima1\Downloads\switchcaseexemplos-master\switchcaseexemplos-master\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\lucas.gslima1\Downloads\switchcaseexemplos-master\switchcaseexemplos-master\ConsoleApp7\obj\Debug\ConsoleApp7.csprojAssemblyReference.cache
+C:\Users\lucas.gslima1\Downloads\switchcaseexemplos-master\switchcaseexemplos-master\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\lucas.gslima1\Downloads\switchcaseexemplos-master\switchcaseexemplos-master\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\lucas.gslima1\Downloads\switchcaseexemplos-master\switchcaseexemplos-master\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
